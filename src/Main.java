@@ -18,6 +18,7 @@ public class Main {
         }else {
             System.out.println(cantidad+ " dolares son "+(cantidad*dol_eur)+" euros");
             System.out.println("No te sale a ceunta");
+            System.out.println("No te sale a ceunta");
             
 
         }
