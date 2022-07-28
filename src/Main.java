@@ -12,6 +12,8 @@ public class Main {
         double cantidad=sc.nextInt();
         if(cambio==1){
             System.out.println(cantidad+ " euros son "+(cantidad*eur_dol)+" dolares");
+            System.out.println("No sale a cuenta");
+
 
         }else {
             System.out.println(cantidad+ " dolares son "+(cantidad*dol_eur)+" euros");
